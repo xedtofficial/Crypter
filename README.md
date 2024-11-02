@@ -17,7 +17,8 @@
 
 ## Note
   MIT License<br>
-  This program uses the WindowsAPI.
+  This program uses the WindowsAPI.<br>
+  Estimated size : 5 MB
 
 <br>
 
